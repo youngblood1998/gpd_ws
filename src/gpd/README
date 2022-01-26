@@ -1,0 +1,4 @@
+打开相机
+roslaunch realsense2_camera rs_camera_ca.launch filters:=pointcloud
+使用gpd
+roslaunch gpd tutorial1.launch

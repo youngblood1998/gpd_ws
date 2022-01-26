@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jay/gpd_ws/src/gpd-forward/src/nodes/grasp_detection_node.cpp
+../../../gpd/include/nodes/grasp_detection_node.h
+/home/jay/gpd_ws/src/gpd/include/nodes/grasp_detection_node.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -DNDEBUG -O3 -fopenmp -Wno-deprecated -Wenum-compare    CMakeFiles/gpd_test_lenet.dir/src/tests/test_lenet.cpp.o  -o /home/jay/gpd_ws/devel/lib/gpd/test_lenet -rdynamic /home/jay/gpd_ws/devel/lib/libgpd_lenet.so /home/jay/gpd_ws/devel/lib/libgpd_conv_layer.so /home/jay/gpd_ws/devel/lib/libgpd_dense_layer.so -Wl,-rpath,/home/jay/gpd_ws/devel/lib 
