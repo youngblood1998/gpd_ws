@@ -1,4 +1,6 @@
 打开相机
 roslaunch realsense2_camera rs_camera_ca.launch filters:=pointcloud
+去除平面
+rosrun gpd plane_filter
 使用gpd
 roslaunch gpd tutorial1.launch
